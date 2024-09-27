@@ -10,7 +10,7 @@
     "email": "igorpraxedeslinux@gmail.com"
   },
   "devDependencies": {
-    "rollup": "^1.32.1",
+    "rollup": "^2.79.2",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
     "rollup-plugin-uglify": "^6.0.4",
